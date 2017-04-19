@@ -97,7 +97,7 @@ $(function(){
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "images/Touchscreen HD purple final 2.jpg"
+       "https://4.bp.blogspot.com/-wFGlafH8VAg/WPfO6YNdeKI/AAAAAAAAARI/cvaLW4frR6Qp6acdz3jpfdLRRXbtOTFTgCLcB/s1600/Touchscreen%2BHD%2Bpurple%2Bfinal%2B2.jpg"
         ]);
     });
   })

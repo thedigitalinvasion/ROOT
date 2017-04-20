@@ -508,11 +508,6 @@ media quires for mobile
 									}
    /* Portrait styles here */
 }
-/* Landscape */
-@media screen and (orientation:landscape) {
-   .container {width: 95%;  margin: auto; }
-   /* Portrait styles here */
-}
 
 }
 

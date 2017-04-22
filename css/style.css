@@ -481,7 +481,8 @@ overflow: auto
   color: #ffffff;
 }
 #contact input[type="reset"]:hover {
-  background: #CC3232;
+  <!-- background: #CC3232; -->
+  background: #000000;
   border: 3px solid #CC3232;
   color: #ffffff;
 }

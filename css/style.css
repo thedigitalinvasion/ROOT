@@ -474,7 +474,22 @@ div#ContactForm1 {
     display: none !important;
 }
 
-
+/**** Error message and Success Message ****/
+.contact-form-error-message-with-border .contact-form-success-message {
+  background: transparent;
+  border: 1px solid #f0c36d;
+  bottom: 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,.2);
+  color: #ffff00;
+  font-size: 12px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  line-height: 19px;
+  margin-left: 0;
+  opacity: 1;
+  position: static;
+  text-align: center;
+}
 
 /* ==========================================================================
 media quires for mobile

@@ -451,7 +451,24 @@ overflow: auto
   background: #3B5E2B;
   border: 3px solid #3B5E2B;
 }
-
+/**** Submit button style ****/
+.contact-form-button-submit {
+   background: #004080;
+  border: 3px solid #004080;
+  border-radius: 3em;   <!--  changed from 0 to give roundish look -->
+  letter-spacing: 2px;
+  font-weight: bold;
+  margin-top: 18px;
+  font-size: 19px;
+  height: 50px;
+  color: #ffffff;
+}
+/**** Submit button on mouse hover ****/
+.contact-form-button-submit:hover {
+  color: #ffffff;
+  background: #3B5E2B;
+  border: 3px solid #3B5E2B;
+}
 #contact input[type="reset"] {
   background: #004080;
   border: 3px solid #004080;

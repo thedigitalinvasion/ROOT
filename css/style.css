@@ -516,3 +516,7 @@ media quires for mobile
 			padding-right: 0px;
                                 }
 }
+
+@media only screen and (min-width: 1600px) {
+    .icon-envelope {padding-right:40px;}
+}
